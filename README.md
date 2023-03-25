@@ -6,8 +6,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Saisantoshkumar-yellow)](https://stackoverflow.com/users/19376013/saisantoshkumar-tuniki)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Full Stack Web developer
+I am Fresher and knowledagble in a wide range of skills that include back-end development using open source technologies (NodeJs, Java), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB, Mysql)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/santoshtuniki/count.svg)
