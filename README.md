@@ -7,7 +7,7 @@
 
 I'm
 Full Stack Web developer
-I am Fresher and knowledagble in a wide range of skills that include back-end development using open source technologies (NodeJs, Java), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB, Mysql)
+and well-versed in a wide range of skills that include back-end development using open source technologies (NodeJs, Java), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB, Mysql)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/santoshtuniki/count.svg)
