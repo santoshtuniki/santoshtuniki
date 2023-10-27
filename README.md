@@ -5,7 +5,7 @@
 
 I'm
 Full Stack Web developer
-and well-versed in a wide range of skills that include back-end development using open source technologies (NodeJs, Java), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB, Mysql)
+and well-versed in a wide range of skills that include back-end development using open source technologies (NodeJs, Java), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX, Redux, Redux Toolkit), database(MongoDB, Mysql), web sockets (Socket.io) and knowledgeable in ElectronJS 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/santoshtuniki/count.svg)
